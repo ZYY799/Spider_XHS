@@ -59,15 +59,6 @@ python search.py
 🛹额外说明
 1. 自行将cookie放到static目录下cookies.txt中，去设置里的应用程序里找或者网络请求里找，需要哪些可以参考cookies.txt文件。
 2. 可采用以下方法获取cookie，并运行对应文件，只有登陆后的cookies是有用的。
-![image](https://github.com/cv-cat/Spider_XHS/assets/94289429/e2ceaa15-defc-4d41-a6db-4a9d3f3055e4)
-![image](https://github.com/cv-cat/Spider_XHS/assets/94289429/78e791a6-ba51-455a-a438-3c829db5c387)
-
-3. 感谢star⭐！不时更新。
-4. 有问题可以加QQ（992822653）或者微信（CVZC15751076989）交流！
-5. 感谢赞助！如果此项目对您有帮助，请作者喝一杯奶茶~~ （开心一整天😊😊）
-6. thank you~~~
-
-![mm_facetoface_collect_qrcode_1696839915907](https://github.com/cv-cat/Spider_XHS/assets/94289429/f8bac4e2-88f1-440c-987a-9803c0a2bbd5)![1696832397](https://github.com/cv-cat/Spider_XHS/assets/94289429/fb7fee7d-7394-4353-b202-165d74a87f54)
 
 
 
